@@ -2,7 +2,7 @@
   "name": "kampus-indonesia",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AbdurahmanBasyah.github.io/Kampus-indonesia",
+  "homepage": "https://AbdurahmanBasyah.github.io/Kampus-indonesia.git",
   "dependencies": {
     "classnames": "^2.2.6",
     "lodash": "^4.17.15",
